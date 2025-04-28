@@ -11,6 +11,10 @@ Follow the on-screen instructions to generate improved co-parenting communicatio
 
 HCCA is a structured prompt designed to assist with co-parenting communication in high-conflict situations, emphasizing clarity, neutrality, and emotional de-escalation.
 
+## Contribute
+
+Help improve the High-Conflict Co-Parenting Assistant. If you'd like to help enhance this tool, check out our [Call to Action](https://docs.google.com/document/d/1U1DXGuhYjnBu3XZg0kZVZ4KPQGPACUMF2d3s1nWs4SE/edit?usp=drive_link).
+
 ## License
 
 © 2025 by David Matthew Rock
