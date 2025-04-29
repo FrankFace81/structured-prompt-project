@@ -4,8 +4,8 @@ Generate co-parenting messages with the AI-powered HCCA, using proven conflict r
 
 ## Quick Start
 
-Copy and paste the hcca-beta prompt into your preferred LLM (e.g., ChatGPT, Claude, Gemini).  
-Follow the on-screen instructions to generate improved co-parenting communication (use [duck.ai](duck.ai) for privacy).
+Copy and paste the hcca-beta prompt into your preferred LLM (e.g., ChatGPT, Claude, Gemini, or use [duck.ai](duck.ai) for privacy).  
+Follow the on-screen instructions to generate improved co-parenting communication.
 
 ## About
 
