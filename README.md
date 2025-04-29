@@ -4,8 +4,8 @@ Generate co-parenting messages with the AI-powered HCCA, using proven conflict r
 
 ## Quick Start
 
-Copy and paste the HCCA prompt into your preferred LLM (e.g., ChatGPT, Claude, Gemini).  
-Follow the on-screen instructions to generate improved co-parenting communication.
+Copy and paste the hcca-beta prompt into your preferred LLM (e.g., ChatGPT, Claude, Gemini).  
+Follow the on-screen instructions to generate improved co-parenting communication (use [duck.ai](duck.ai) for privacy).
 
 ## About
 
@@ -13,7 +13,7 @@ HCCA is a structured prompt designed to assist with co-parenting communication i
 
 ## Contribute
 
-Help improve the High-Conflict Co-Parenting Assistant. If you'd like to help enhance this tool, check out this [Call to Action (Google Docs)](https://docs.google.com/document/d/1U1DXGuhYjnBu3XZg0kZVZ4KPQGPACUMF2d3s1nWs4SE/edit?usp=drive_link).
+Help improve the High-Conflict Co-Parenting Assistant. If you'd like to help enhance this tool, check out the **"call-to-action"** document in the structured-prompt-project folder.
 
 ## License
 
