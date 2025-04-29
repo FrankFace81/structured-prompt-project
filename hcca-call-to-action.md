@@ -113,10 +113,10 @@ Licensed under CC BY-SA 4.0
 
 Connect with me on Linkedin.
 
-[**David Matthew Rock**](www.linkedin.com/in/david-matthew-rock)
+[David Matthew Rock](www.linkedin.com/in/david-matthew-rock)
 
 If this helped you, consider donating to support ongoing development.
 
-[**Donate via PayPal**](http://paypal.me/DavidMRock)
+[Donate via PayPal](http://paypal.me/DavidMRock)
 
 ---
